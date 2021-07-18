@@ -2,6 +2,44 @@
 # Kingdoms of the Valley | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V1.16.1.1 Beta 2</h1>
+
+**Updated:**
++ Minecraft Forge (36.1.58 → 36.1.62)
++ Biomes O' Plenty (13.1.0.478 → 13.1.0.480)
++ Create (v0.3.2a → v0.3.2b)
++ FallingTree (2.11.1 → 2.11.5)
++ FancyMenu (2.1.2-1 → 2.2.0)
++ Flywheel (0.1.0 → 0.1.1)
++ JourneyMap (5.7.1 → 5.7.2beta18)
++ Just Enough Items (7.7.0.106 → 7.7.1.110)
++ Kotlin (1.13.0 → 1.14.0)
++ Mantle (1.6.109 → 1.6.115)
++ MineColonies (0.14.238 → 0.14.294)
++ Repurposed Structures (2.7.9 → 2.7.10)
++ Serene Seasons (4.0.1.119 → 4.0.1.120)
++ Structurize (0.13.195 → 0.13.200)
++ Tinkers Construct (3.0.4.197 → 3.1.0.231)
++ YUNG's API (Forge-6 → Forge-11)
++ YUNG's Better Strongholds (1.1 → 1.2)
+
+**Changed/Fixed**
++ Fixed an issue that causes the User Interface to disappear.
++ Removed Faithful 32x in favour of Compliance 32x.
++ Disabled Biome Fog.
++ Disabled Breath Effect.
+
+**Added:**
+
+**Removed:**
++ XL Packets
++ Seamless Loading Screen
++ FancyHud
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+---------------------------------------------------------------------------------------------
 <h1>V1.16.1.0.beta</h1>
 
 **Updated:**

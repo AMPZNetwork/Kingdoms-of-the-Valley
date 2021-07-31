@@ -1,16 +1,18 @@
-#Kingdoms Of The Valley
+<p align="center">
+| <img src="https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley/BH_KOV_Title.png" alt="Get your server today!"  width="1920" height="180"></a>|
+</p>
 ======
 
 This is the official repository and issue-tracker for Colony Lost in Deep Space 1.12
     
 #### Modpack Links: 
-+ CurseForge: Coming Soon
++ CurseForge: https://www.curseforge.com/minecraft/modpacks/kingdoms-of-the-valley
 + Technic: https://www.technicpack.net/modpack/kingdoms-of-the-valley.1861835  
-+ ATLauncher: Coming Soon  
++ ATLauncher: https://atlauncher.com/pack/KingdomsOfTheValley/
 
   
 <p align="center">
-| <img src="https://www.bisecthosting.com/images/CF/Colony_LIDS/BH_COL_Support.png" alt="Get your server today!"  width="1920" height="180"></a>|
+| <img src="https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley/BH_KOV_Support.png" alt="Get your server today!"  width="1920" height="180"></a>|
 </p>
 ======
 When reporting an issue put the version number before the issue title! Such as [FULL][1.37] My game is broken! Also include any added mods you may have put in, into the description of the issue. 
@@ -27,5 +29,5 @@ Looking for a Reliable Server Host?
 AMPZ Network has partnered up with BisectHosting to give our community a discount on their first order of any of their gaming services, by using promo code **"AMPZ"** you will save 25% off your first order. Click the banner below to get yours. 
 
 <p align="center">
-| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/Colony_LIDS/BH_COL_PromoCard.png" alt="Get your server today!"  width="1920" height="170"></a>|
+| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley/BH_KOV_Bisect.png" alt="Get your server today!"  width="1920" height="170"></a>|
 </p>

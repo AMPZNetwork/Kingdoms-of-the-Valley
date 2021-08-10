@@ -48,10 +48,10 @@
 + Drippy Loading Screen
 + Decorative Blocks
 + Decorative Blocks modded compat
-+ Torch Slabs Mod *UPLOAD TO ATLAUNCHER 
-+ YUNG's Better Dungeons (Forge) *UPLOAD TO ATLAUNCHER 
-+ Infernal Expansion *UPLOAD TO SOLDER AND ATLAUNCHER
-+ Catalogue *UPLOAD TO ATLAUNCHER
++ Torch Slabs Mod 
++ YUNG's Better Dungeons (Forge) 
++ Infernal Expansion 
++ Catalogue
 
 **Removed:**
 + 

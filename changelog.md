@@ -17,7 +17,7 @@
 + Just Enough Items (7.7.1.110 → 7.7.1.118)
 + Just Enough Resources (0.12.1.121 → 0.12.1.127)
 + MineColonies (0.14.294-BETA → 0.14.327-BETA)
-+ Staructurize (0.13.200 → 0.13.208)
++ Structurize (0.13.200 → 0.13.208)
 + Quark (r2.4-314 → r2.4-316)
 + Repurposed Structures (2.7.10 → 3.1.0)
 + TerraForged (0.2.12 → 0.2.14)
@@ -48,6 +48,10 @@
 + Drippy Loading Screen
 + Decorative Blocks
 + Decorative Blocks modded compat
++ Torch Slabs Mod *UPLOAD TO ATLAUNCHER 
++ YUNG's Better Dungeons (Forge) *UPLOAD TO ATLAUNCHER 
++ Infernal Expansion *UPLOAD TO SOLDER AND ATLAUNCHER
++ Catalogue *UPLOAD TO ATLAUNCHER
 
 **Removed:**
 + 

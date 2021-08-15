@@ -2,6 +2,24 @@
 # Kingdoms of the Valley | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V1.16.1.2.1 Beta 3</h1>
+
+
+**Updated:**
++ MineColonies (0.14.327-BETA → 0.14.331-ALPHA)
+
+**Changed/Fixed**
++ Fixed an issue with connecting to multiplayer servers getting stuck on encyipting message.
+
+**Added:**
++ 
+
+**Removed:**
++
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+---------------------------------------------------------------------------------------------
 <h1>V1.16.1.2 Beta 3</h1>
 
 **Updated:**

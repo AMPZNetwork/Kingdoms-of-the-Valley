@@ -2,20 +2,51 @@
 # Kingdoms of the Valley | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>V1.16.1.2.1 Beta 3</h1>
+<h1>V1.16.1.3 Beta 4</h1>
 
+Java 11 is now the default required java to run this modpack.
+(https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
 **Updated:**
++ Infernal Expansion (2.1.1 → 2.2.0)
++ Repurposed Structures (3.1.0 → 3.1.3)
 + MineColonies (0.14.327-BETA → 0.14.331-ALPHA)
 
 **Changed/Fixed**
 + Fixed an issue with connecting to multiplayer servers getting stuck on encyipting message.
++ Added missing Discord and CurseForge menu buttons.
++ Added Discord icon when traveling to the deeper dark dimension.
++ Added CurseForge & Discord button located on the main menu.
++ Added Microsoft Ingame Re-Login support.
++ Disabled Minecolonies explosions.
++ Disabled Frogs, Piranhas and Deer's from spawning naturally.
++ Tweaked the Splash.txt file.
++ Tweaked colony claim size from 20 to 50.
++ Tweaked colony distance from 8 to 15 chunks.
++ Small UI Tweaks.
++ Improved Performance.
 
 **Added:**
-+ 
++ Orcinus's Caves
++ Jade
++ Supplementaries 
++ The Endergetic Expansion
++ The Outer End
++ Double Slabs
++ Controllable
++ OAuth
++ Macaw's Lights and Lamps
++ Macaw's Windows
++ Macaw's Trapdoors
++ Macaw's Doors
++ Chicken's Compat
++ AstikorCarts
 
 **Removed:**
-+
++ Hwyla
++ Waila Harvestability
++ Wawla
++ Dungeon Crawl
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues

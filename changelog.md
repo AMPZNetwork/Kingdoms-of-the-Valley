@@ -2,6 +2,87 @@
 # Kingdoms of the Valley | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V1.4 Beta 5</h1>
+
+
+**Updated:**
++ Minecraft Forge (36.2.2 → 36.2.8)
++ Abnormals Core (3.2.0 → 3.3.0)
++ Apotheosis (4.6.1 → 4.8.2)
++ Better Dungeons (1.2 → 1.2.1)
++ Bookshelf (10.2.27 → 10.3.29)
++ Placebo (4.5.0 → 4.6.0)
++ CaveBiomeAPI (1.3.1 → 1.4.0)
++ Caves & Cliffs Backport (6.2 → 6.3)
++ Comforts (4.0.1.2 → 4.0.1.3)
++ Controlling (7.0.0.23 → 7.0.0.26)
++ CookingForBlockheads (9.3.3 → 9.3.4)
++ Curios API (4.0.5.2 → 4.0.5.3)
++ Chisels & Bits (1.0.0 → 1.0.38)
++ Double Slabs (3.6.0 → 3.7.2)
++ Druidcraft (0.4.52 → 0.4.53)
++ Doggy Talents (2.0.1.10 → 2.1.0.1)
++ FancyMenu (2.2.1 → 2.3.4)
++ Flywheel (0.2.3 → 0.2.4)
++ Konkrete (1.1.6 → 1.3.0)
++ Kotlin (1.14.0 → 1.15.1)
++ Jade (2.7.2 → 2.8.0)
++ Just Enough Items (7.7.1.118 → 7.7.1.126)
++ Just Enough Resources (0.12.1.127 → 0.12.1.128)
++ Macaw's Windows (1.0.3 → 2.0.0)
++ Macaw's Fences (1.0.0 → 1.0.1)
++ Macaw's Trapdoors (1.0.2 → 1.0.3)
++ Mantle (1.6.115 → 1.6.127)
++ Minecolonies (0.14.335 → 1.0.68-BETA)
++ OAuth (1.03 → 1.06.1) 
++ Orcinus's Caves (1.1.2 → 1.3)
++ DrippyLoadingScreen (1.1.0 → 1.2.0)
++ Infernal Expansion (2.2.0 → 2.3.2)
++ Patchouli (53.1 → 53.2)
++ Quark (r2.4-316 → r.2.4-319)
++ Selence (1.6 → 1.8.1)
++ Serene Seasons (4.0.1.120 → 4.0.1.121)
++ Supplementaries (0.15.2b → 0.17.6)
++ Structurize (0.13.208 → 0.13.252)
++ Trample Stopper (2.4.9 → 2.6.1)
++ TerraForged (0.2.14 → 0.2.15)
++ Tinkers Construct (3.1.1.252 → 3.1.3.271)
++ YUNG'S API (Forge-12 → Forge-13)
+
+**Changed/Fixed**
++ Changed how we deplay the pack version numbers.
++ Disabled Quarks Deepslate.
++ Disabled Quarks Marble.
++ Disabled Quarks Limestone.
++ Disabled Quarks Seed Pouch.
++ Disabled Phantoms from spawing.
++ Disabled Broadcasting Advancements in Chat.
++ Tweaked the spawn rate of glowing squids.
++ Tweaked Terraforged world gen.
++ Minor UI tweaks.
+
+**Added:**
++ Yung's Bridges
++ Awesome Dungeon
++ Simple Discord RPC
++ Lazy DataFixerUpper
++ Chocolate Fix
++ Tree Harvester
++ My Server Is Compatible
+
+**Removed:**
++ CraftPresence
++ Falling Tree
++ Mystical World
++ Subterranean Wilderness
++ Dynamic Surroundings
++ Modern World Creation
++ Repurposed Structures
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+
+---------------------------------------------------------------------------------------------
 <h1>V1.16.1.3 Beta 4</h1>
 
 Java 11 is now the default required java to run this modpack.
@@ -50,6 +131,7 @@ https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+
 ---------------------------------------------------------------------------------------------
 <h1>V1.16.1.2 Beta 3</h1>
 
@@ -107,6 +189,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+
 ---------------------------------------------------------------------------------------------
 <h1>V1.16.1.1 Beta 2</h1>
 
@@ -145,6 +228,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+
 ---------------------------------------------------------------------------------------------
 <h1>V1.16.1.0.beta</h1>
 
@@ -175,6 +259,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+
 ---------------------------------------------------------------------------------------------
 <h1>V210701.alpha</h1>
 
@@ -216,6 +301,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+
 ---------------------------------------------------------------------------------------------
 <h1>V2106301.alpha</h1>
 
@@ -230,6 +316,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+
 ---------------------------------------------------------------------------------------------
 <h1>V210630.alpha</h1>
 
@@ -239,5 +326,6 @@ First ALPHA build.
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+
 ---------------------------------------------------------------------------------------------
 

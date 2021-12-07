@@ -1,7 +1,68 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # Kingdoms of the Valley | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1>V1.5 Beta 6</h1>
+
+
+**Updated:**
++ Minecraft Forge (36.2.28 → 36.2.19)
++ Apotheosis (4.8.2 → 4.8.3)
++ Awesome Dungeon (1.1.0 → 1.1.2)
++ Biomes O' Plenty (13.1.0.482 → 13.1.0.484)
++ Buzzier Bees (3.0.1 → 3.0.2)
++ CaveBiomeAPI (1.4.0 → 1.4.2)
++ Caves & Cliffs Backport (6.3 → 7.1.4)
++ Chisels & Bits (1.0.38 → 1.0.43)
++ Collective (2.64 → 3.8)
++ Controlling (7.0.0.26 → 7.0.0.28)
++ Corpse Complex (4.0.2.5 → 4.0.2.6)
++ Create (0.3.2d → 0.3.2g)
++ Curios API (4.0.5.3 → 4.0.6.5)
++ Doggy Talents (2.1.0.1 → 2.1.15)
++ Drippy Loading Screen (1.2.0 → 1.4.1)
++ Druidcraft (0.4.53 → 0.4.54)
++ FancyMenu (2.3.4 → 2.4.2) 
++ Flywheel (0.2.4 → 0.2.5)
++ Infernal Expansion (2.3.2 → 2.4.0)
++ JourneyMap (5.7.3 → 5.8.0 Beta 2)
++ Just Enough Items (7.7.1.126 → 7.7.1.137)
++ Just Enough Resources (0.12.1.128 → 0.12.1.133)
++ Kotlin for Forge (1.15.1 → 1.16.0)
++ Macaw's Bridges (1.0.6 → 2.0.0)
++ MineColonies (1.0.68 → 1.0.205)
++ Mantle (1.6.127 → 1.6.147)
++ OAuth (1.06.1 → 1.1.4)
++ Placebo (4.6.0 → 4.6.1)
++ Polymorph (0.25 → 0.33)
++ Project Brazier (0.5.2.5 → 0.5.3)
++ Quark (r2.4-319 → r2.4-321)
++ Selene Lib (1.8.1 → 1.9.0)
++ Serene Seasons (4.0.1.121 → 4.0.1.122)
++ Simple Discord RPC (2.4 → 2.6)
++ Supplementaries (0.17.6 → 0.17.12b)
++ TerraForged (0.2.15 → 0.2.16 Beta 2)
++ Tinkers Construct (3.1.3.271 → 3.3.0.308)
++ Tree Harvester (3.2 → 4.1)
++ Upgrade Aquatic (3.1.0 → 3.1.1)
+
+**Changed/Fixed**
++ Added More Loading Screen Tips.
++ Fixed JourneyMap Size.
+
+**Added:**
++ Configured
++ Catalogue
+
+**Removed:**
++ Controllable
++ Not Enough Crashes
++ Deeper in the Caves - Warden Mod
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+
+---------------------------------------------------------------------------------------------
 <h1>V1.4 Beta 5</h1>
 
 

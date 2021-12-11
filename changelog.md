@@ -2,6 +2,29 @@
 # Kingdoms of the Valley | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
+<h1>V1.5.1 Beta 6</h1>
+
+
+**Updated:**
++ Minecraft Forge (36.2.19 → 36.2.20)
++ JourneyMap (5.8.0 Beta 2 → 5.8.0 Beta 3)
+
+
+**Changed/Fixed**
++ Patch a recent security vulnerability affecting Minecraft.
++ Updated Server files (recommend all server owners to use the new files provided).
+
+
+**Added:**
++ 
+
+**Removed:**
++ 
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+
+---------------------------------------------------------------------------------------------
 <h1>V1.5 Beta 6</h1>
 
 
@@ -146,7 +169,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 ---------------------------------------------------------------------------------------------
 <h1>V1.16.1.3 Beta 4</h1>
 
-Java 11 is now the default required java to run this modpack.
+Java 11 is now the default required java to run this modpack.<br>
 https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 
 **Updated:**

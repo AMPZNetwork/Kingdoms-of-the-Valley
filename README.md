@@ -1,9 +1,9 @@
 <p align="center">
-| <img src="https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley/BH_KOV_Title.png" alt="Get your server today!" width="1126" height="311"></a>|
+| <img src="https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley/BH_KOV_Title.png" alt="Get your server today!" width="1469" height="405"></a>|
 </p>
 ======
 
-This is the official repository and issue-tracker for Kingdoms Of The Valley 1.16.5
+This is the official repository and issue-tracker for Kingdoms Of The Valley 1.16.5/1.18.1
 
 When reporting an issue put the version number before the issue title! Such as [FULL][1.37] My game is broken! Also include any added mods you may have put in, into the description of the issue. 
       
@@ -28,5 +28,5 @@ Looking for a Reliable Server Host?
 AMPZ Network has partnered up with BisectHosting to give our community a discount on their first order of any of their gaming services, by using promo code **"AMPZ"** you will save 25% off your first order. Click the banner below to get yours. 
 
 <p align="center">
-| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley/BH_KOV_Bisect.png" alt="Get your server today!"  width="1125" height="234"></a>|
+| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley/BH_KOV_Bisect.png" alt="Get your server today!"  width="1469" height="257"></a>|
 </p>

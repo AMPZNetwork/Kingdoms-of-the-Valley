@@ -62,7 +62,7 @@
 + Disabled Quark's Mobs Module.
 + Removed Some leftover config files.
 + Minor Loading Screen Tweaks.
-+ Performace Improvements.
++ Performance Improvements.
 
 
 **Added:**

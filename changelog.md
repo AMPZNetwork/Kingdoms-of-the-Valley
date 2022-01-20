@@ -1,6 +1,82 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # Kingdoms of the Valley | Patch Notes
-<h2>Be sure to always backup your world(s) before updating!</h2>
+## Be sure to always backup your world(s) before updating!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V1.6 Beta 7</h1>
+
+<h4>V2.0 Alpha built for Minecraft 1.18.1 is now available on CurseForge.</h4>
+
+**Updated:**
++ Minecraft Forge (36.2.20 → 36.2.23)
++ Apotheosis (4.8.3 → 4.8.4)
++ Awesome Dungeon (1.1.2 → 2.0.4)
++ Better Animals Plus (10.2.0 → 11.0.3)
++ Biomes O' Plenty (13.1.0.484 → 13.1.0.485)
++ Bookshelf (10.3.29 → 10.4.31)
++ Blueprint (3.3.0 → 3.3.1)
++ Buzzier Bees (3.0.2 → 3.0.3)
++ Caves & Cliffs Backport (7.1.4 → 7.2.0)
++ Chisels & Bits (1.0.43 → 1.0.63)
++ Curios API (4.0.6.5 → 4.0.8.0)
++ Drippy Loading Screen (1.4.1 → 1.4.2)
++ Environmental (1.1.0 → 1.1.1)
++ FancyMenu (2.4.2 → 2.5.2)
++ Jade (2.8.0 → 2.8.1)
++ JourneyMap (5.8.0 Beta 3 → 5.8.0 Beta 10)
++ Just Enough Items (7.7.1.137 → 7.7.1.145)
++ Konkrete (1.3.0 → 1.3.3)
++ Macaw's Bridges (2.0.0 → 2.0.1)
++ Macaw's Doors (1.0.3 → 1.0.5)
++ Macaw's Fences and Walls (1.0.1 → 1.0.2)
++ Macaw's Lights and Lamps (1.0.0 → 1.0.2)
++ Macaw's Trapdoors (1.0.3 → 1.0.4)
++ Macaw's Windows (2.0.0 → 2.0.2)
++ Mantle (1.6.147 → 1.6.152)
++ MineColonies (1.0.205 BETA → 1.0.352 BETA)
++ OAuth (1.1.4 → 1.1.8)
++ Polymorph (0.33 → 0.39)
++ Project Brazier (0.5.3 → 0.5.4)
++ Savage & Ravage (3.1.0 → 3.2.0)
++ Serene Seasons (4.0.1.122 → 4.0.1.123)
++ Simple Discord RPC (2.6 → 2.7.1)
++ Supplementaries (0.17.12b → 0.18.0)
++ The Twilight Forest (4.0.546 → 4.0.870)
++ Tinkers Construct (3.3.0.308 → 3.3.2.324)
++ Tips (4.0.7 → 4.0.15)
++ Toast Control (4.3.1 → 4.4.0)
++ Upgrade Aquatic (3.1.1 → 3.1.2)
+
+
+**Changed/Fixed**
++ Re-designed Main Menu.
++ New Pack Logo.
++ Fixed Main Menu Scale.
++ Disabled Quark's Slate.
++ Disabled Fairy Rings.
++ Disabled Underground Biome.
++ Disabled Speleothems.
++ Disabled Auto Walk Keybind.
++ Disabled Back Button Keybind.
++ Disabled Greener Grass.
++ Disabled Ancient Tomes.
++ Disabled Quark's Mobs Module.
++ Removed Some leftover config files.
++ Minor Loading Screen Tweaks.
++ Performace Improvements.
+
+
+**Added:**
++ Awesome Dungeon Edition Ocean - Forge
++ Just Enough Advancements
+
+
+**Removed:**
++ RandomPatches
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---------------------------------------------------------------------------------------------
 
 <h1>V1.5.1 Beta 6</h1>
 
@@ -21,8 +97,7 @@
 **Removed:**
 + 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
 
 ---------------------------------------------------------------------------------------------
 <h1>V1.5 Beta 6</h1>
@@ -82,8 +157,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 + Not Enough Crashes
 + Deeper in the Caves - Warden Mod
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
 
 ---------------------------------------------------------------------------------------------
 <h1>V1.4 Beta 5</h1>
@@ -163,8 +237,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 + Modern World Creation
 + Repurposed Structures
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
 
 ---------------------------------------------------------------------------------------------
 <h1>V1.16.1.3 Beta 4</h1>
@@ -213,8 +286,7 @@ https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 + Wawla
 + Dungeon Crawl
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
 
 ---------------------------------------------------------------------------------------------
 <h1>V1.16.1.2 Beta 3</h1>
@@ -271,8 +343,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 **Removed:**
 + 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
 
 ---------------------------------------------------------------------------------------------
 <h1>V1.16.1.1 Beta 2</h1>
@@ -310,8 +381,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 + FancyHud
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
 
 ---------------------------------------------------------------------------------------------
 <h1>V1.16.1.0.beta</h1>
@@ -341,8 +411,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 + 
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
 
 ---------------------------------------------------------------------------------------------
 <h1>V210701.alpha</h1>
@@ -383,8 +452,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 + DynamicTrees
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
 
 ---------------------------------------------------------------------------------------------
 <h1>V2106301.alpha</h1>
@@ -398,8 +466,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 + Agricraft
 + InfinityLib
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
 
 ---------------------------------------------------------------------------------------------
 <h1>V210630.alpha</h1>
@@ -408,8 +475,7 @@ https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
 First ALPHA build.
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
 
 ---------------------------------------------------------------------------------------------
 

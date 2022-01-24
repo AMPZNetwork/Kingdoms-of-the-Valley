@@ -8,7 +8,7 @@ This is the official repository and issue-tracker for Kingdoms Of The Valley 1.1
 When reporting an issue put the version number before the issue title! Such as [FULL][1.37] My game is broken! Also include any added mods you may have put in, into the description of the issue. 
       
 <p align="center">
-| <img src="https://i.imgur.com/ji04qre.png" alt="Get your server today!" width="1125" height="234"></a>|
+| <img src="https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley2/BH_KOV_Support.png" alt="Get your server today!" width="1216" height="150"></a>|
 </p>
 
 |You can also find us on Discord for help<br>or just to chat as well as our Guilded Server|

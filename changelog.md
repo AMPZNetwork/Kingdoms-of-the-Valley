@@ -2,6 +2,90 @@
 # Kingdoms of the Valley | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V1.7 Beta 8</h1>
+
+<h4>OPTIFINE: Remove the Magnesium & Dynamic Lights Reforged Mod if you want to use Optifine!.</h4>
+
+**Updated:**
++ Minecraft Forge (36.2.23 → 36.2.31)
++ Architectury API (1.28.48 → 1.30.55)
++ Collective (3.8 → 4.25)
++ Comforts (4.0.1.3 → 4.0.1.5)
++ Curios API (4.0.8.0 → 4.0.8.1)
++ Drippy Loading Screen (1.4.2 → 1.5.1)
++ FancyMenu (2.5.2 → 2.6.4)
++ JourneyMap (5.8.0 Beta10 → 5.8.0 Beta19)
++ Just Enough Items (7.7.1.145 → 7.7.1.152)
++ Kotlin for Forge (1.16.0 → 1.17.0)
++ Macaw's Bridges (2.0.1 → 2.0.2)
++ Macaw's Doors (1.0.5 → 1.0.6)
++ Macaw's Fences and Walls (1.0.2 → 1.0.3)
++ Macaw's Lights and Lamps (1.0.2 → 1.0.3)
++ Macaw's Roofs (2.0.1 → 2.1.1)
++ Macaw's Trapdoors (1.0.4 → 1.0.5)
++ Mantle (1.6.152 → 1.6.157)
++ MineColonies (1.0.352-BETA → 1.0.497-BETA)
++ OAuth (1.1.8 → 1.1.12)
++ Polymorph (0.39 → 0.40)
++ Quark (r2.4-321 → r2.4-322)
++ Scalable Cat's Force (2.13.5 → 2.13.8)
++ Serene Seasons (4.0.1.123 → 4.0.1.124)
++ Structurize (0.13.252-ALPHA → 1.0.343-RELEASE)
++ Supplementaries (0.18.0 → 0.18.4)
++ Tinkers Construct (3.3.2.324 → 3.3.3.332)
++ Tree Harvester (4.1 → 5.0)
+ 
+**Changed/Fixed**
++ Fixed "More Packs" button URL.
++ Fixed pause menu buttons showing colour when in multiplayer.
++ Added a 1.18 Preview button to the in-game pause menu.
++ Fixed background image moving when entering and leaving a dimension.
++ Disabled Quarks speleothems.
++ Disabled Quarks monster box.
++ Disabled Create copper.
++ Lowered the spawn rate of limestone and weathered limestone.
++ Small changes to simple rpc file.
++ Small changes to splash.txt file.
++ Changed Minecraft default font.
++ New main menu and in-game music.
++ General performance improvements.
+
+
+**Added:**
++ BisectHosting Server Integration Menu
++ Advancement Plaques
++ BetterNether Reforged
++ BetterEnd
++ Caves & Cliffs Backport (Additions)
++ Cultural Delights
++ Magnesium
++ Magnesium Extras
++ Magnesium Dynamic Lights
++ MorePaths
++ Farmer's Delight
++ Farmer's Delight Compats
++ Farmer's Delight Integration
++ Nether's Delight
++ Sky Villages
++ RoadRunner
++ XL Packets 
++ Krypton Reforged
++ Load My Resources
+
+**Removed:**
++ Awesome Dungeon
++ Awesome Dungeon Edition Ocean
++ Library ferret
++ Better Animals Plus
++ OptiFine
++ Pam's HarvestCraft 2
++ Infernal Expansion
++ YUNG's Bridges
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---------------------------------------------------------------------------------------------
 <h1>V1.6 Beta 7</h1>
 
 <h4>V2.0 Alpha built for Minecraft 1.18.1 is now available on CurseForge.</h4>

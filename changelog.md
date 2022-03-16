@@ -8,10 +8,8 @@
 
 **Updated:**
 + Minecraft Forge (36.2.23 → 36.2.31)
-+ Architectury API (1.28.48 → 1.30.55)
 + Collective (3.8 → 4.25)
 + Comforts (4.0.1.3 → 4.0.1.5)
-+ Curios API (4.0.8.0 → 4.0.8.1)
 + Drippy Loading Screen (1.4.2 → 1.5.1)
 + FancyMenu (2.5.2 → 2.6.4)
 + JourneyMap (5.8.0 Beta10 → 5.8.0 Beta19)
@@ -35,6 +33,7 @@
 + Tinkers Construct (3.3.2.324 → 3.3.3.332)
 + Tree Harvester (4.1 → 5.0)
  
+
 **Changed/Fixed**
 + Fixed "More Packs" button URL.
 + Fixed pause menu buttons showing colour when in multiplayer.
@@ -71,6 +70,7 @@
 + XL Packets 
 + Krypton Reforged
 + Load My Resources
+
 
 **Removed:**
 + Awesome Dungeon

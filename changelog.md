@@ -2,6 +2,35 @@
 # Kingdoms of the Valley | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V1.7.1 Beta 8 - HOTFIX</h1>
+
+<h4>OPTIFINE: Remove the Magnesium & Dynamic Lights Reforged Mod if you want to use Optifine!.</h4>
+
+**Updated:**
++ Cultural Delights (0.8 → 0.81)
++ JourneyMap (5.8.0 Beta19 → 5.8.0)
++ MineColonies (1.0.497-BETA → 1.0.507-BETA)
++ OAuth (1.1.12 → 1.1.13)
++ Structurize (1.0.343-RELEASE → 1.0.355-ALPHA)
++ Simple Discord RPC (2.7.1 → 2.7.2)
++ Tinkers Construct (3.3.3.332 → 3.3.4.335)
++ Tree Harvester (5.0 → 5.1)
+
+**Changed/Fixed**
++ Fixed a crash when using Minecolonies Foresters Hut Custom Recipes GUI.
++ Disabled Serilum AntiRepostingCheck.
+
+
+**Added:**
++ Not Enough Crashes
+
+**Removed:**
++ 
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---------------------------------------------------------------------------------------------
 <h1>V1.7 Beta 8</h1>
 
 <h4>OPTIFINE: Remove the Magnesium & Dynamic Lights Reforged Mod if you want to use Optifine!.</h4>

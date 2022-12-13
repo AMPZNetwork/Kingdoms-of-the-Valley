@@ -30,12 +30,9 @@
 + Just Enough Items (7.7.1.152 → 7.7.1.153)
 + Konkrete (1.3.3 → 1.6.0)
 + Minecraft Forge (36.2.31 → 36.2.39)
-+ Macaw's Bridges (2.0.2 → 2.0.5)
-+ Macaw's Doors (1.0.6 → 1.0.7)
 + Macaw's Fences and Walls (1.0.3 → 1.0.6)
 + Macaw's Lights and Lamps (1.0.3 → 1.0.4)
 + Macaw's Roofs (2.1.1 → 2.2.1)
-+ Macaw's Trapdoors (1.0.5 → 1.0.7)
 + Macaw's Windows (2.0.2 → 2.1.0)
 + Magnesium/Rubidium Extras (v1.3.1 → v1.4.0)
 + MineColonies (1.0.507-BETA → 1.0.978-RELEASE)
@@ -51,6 +48,7 @@
 + The Endergetic Expansion (3.0.0 → 3.0.2)
 + Tips (4.0.15 → 4.0.18) 
 + Tree Harvester (5.1 → 5.9)
+
 
 **Changed/Fixed**
 + Fixed adding duplicate bookmarks to jei.

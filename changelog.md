@@ -1,7 +1,85 @@
+[![](https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley2/BH_KOV_Bisect.png)](https://bisecthosting.com/AMPZ)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # Kingdoms of the Valley | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V1.8 - Out of BETA Release</h1>
+
+**Updated:**
++ Apotheosis (4.8.4 → 4.8.9A0)
++ Better Advancements (0.1.0.108 → 0.1.1.115)
++ Better With Minecolonies (1.16.17 → 1.18.19)
++ Biomes O' Plenty (13.1.0.485 → 13.1.0.488)
++ BisectHosting Server Integration Menu (1.2 → 1.3)
++ Bookshelf (10.4.31 → 10.4.32)
++ Catalogue (1.5.0 → 1.6.1)
++ Caves & Cliffs Backport (Additions) (2.59 → 3.4.1)
++ Collective (4.25 → 5.25)
++ Configured (1.5.1 → 1.5.3)
++ Corpse Complex (4.0.2.6 → 4.0.2.7)
++ Cultural Delights (0.81 → 0.9.2)
++ Double Slabs (3.7.2 → 3.7.3)
++ Drippy Loading Screen (1.5.1 → 1.6.6)
++ FancyMenu (2.6.4 → 2.13.0)
++ Farmer's Delight (0.5.4 → 0.6.0)
++ Farming for Blockheads (7.3.1 → 7.3.2)
++ Iceberg (1.0.38 → 1.0.45)
++ Jade (2.8.1 → 2.8.3)
++ JourneyMap (5.8.0 → 5.8.5p6)
++ Just Enough Items (7.7.1.152 → 7.7.1.153)
++ Konkrete (1.3.3 → 1.6.0)
++ Minecraft Forge (36.2.31 → 36.2.39)
++ Macaw's Bridges (2.0.2 → 2.0.5)
++ Macaw's Doors (1.0.6 → 1.0.7)
++ Macaw's Fences and Walls (1.0.3 → 1.0.6)
++ Macaw's Lights and Lamps (1.0.3 → 1.0.4)
++ Macaw's Roofs (2.1.1 → 2.2.1)
++ Macaw's Trapdoors (1.0.5 → 1.0.7)
++ Macaw's Windows (2.0.2 → 2.1.0)
++ Magnesium/Rubidium Extras (v1.3.1 → v1.4.0)
++ MineColonies (1.0.507-BETA → 1.0.978-RELEASE)
++ OAuth (1.1.13 → 1.1.14)
++ Patchouli (53.2 → 53.3)
++ Placebo (4.6.1 → 4.7.0)
++ Polymorph (0.40 → 0.41)
++ Scalable Cat's Force (2.13.8 → 2.13.10)
++ Serene Seasons (4.0.1.124 → 4.0.1.127)
++ Simple Discord RPC (2.7.2 → 3.2.0)
++ Structurize (1.0.355-ALPHA → -1.0.418-ALPHA)
++ Supplementaries (0.18.4 → 0.18.4b)
++ The Endergetic Expansion (3.0.0 → 3.0.2)
++ Tips (4.0.15 → 4.0.18) 
++ Tree Harvester (5.1 → 5.9)
+
+**Changed/Fixed**
++ Fixed adding duplicate bookmarks to jei.
++ Fixed typing R/U into index search crashing when JEI is installed.
++ Fixed a polymorph network crash.
++ Fixed a crash when killing the ender dragon.
++ Removed "Recommended Pack" button.
++ UI tweaks.
++ Performance improvements.
+
+**Added:**
++ Open Loader
++ New Ruined Portals datapack
+
+**Removed:**
++ Load My Resources
++ Sky Villages
++ Trample Stopper
++ Magnesium
++ Magnesium/Rubidium Dynamic Lights
++ Magnesium/Rubidium Extras
++ Rubidium
++ Macaw's Doors
++ Macaw's Bridges
++ Macaw's Trapdoors
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---------------------------------------------------------------------------------------------
 <h1>V1.7.1 Beta 8 - HOTFIX</h1>
 
 <h4>OPTIFINE: Remove the Magnesium & Dynamic Lights Reforged Mod if you want to use Optifine!.</h4>

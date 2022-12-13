@@ -34,7 +34,6 @@
 + Macaw's Lights and Lamps (1.0.3 → 1.0.4)
 + Macaw's Roofs (2.1.1 → 2.2.1)
 + Macaw's Windows (2.0.2 → 2.1.0)
-+ Magnesium/Rubidium Extras (v1.3.1 → v1.4.0)
 + MineColonies (1.0.507-BETA → 1.0.978-RELEASE)
 + OAuth (1.1.13 → 1.1.14)
 + Patchouli (53.2 → 53.3)
@@ -48,7 +47,6 @@
 + The Endergetic Expansion (3.0.0 → 3.0.2)
 + Tips (4.0.15 → 4.0.18) 
 + Tree Harvester (5.1 → 5.9)
-
 
 **Changed/Fixed**
 + Fixed adding duplicate bookmarks to jei.

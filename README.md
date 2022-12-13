@@ -1,6 +1,5 @@
-<p align="center">
-| <img src="https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley2/BH_KOV_Title.png" alt="Get your server today!" width="1216" height="300"></a>|
-</p>
+![](https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley2/BH_KOV_Title.png)
+
 ======
 
 This is the official repository and issue-tracker for Kingdoms Of The Valley
@@ -23,8 +22,4 @@ Looking for a Reliable Server Host?
 ======
 AMPZ Network has partnered up with BisectHosting to give our community a discount on their first order of any of their gaming services, by using promo code **"AMPZ"** you will save 25% off your first order. Click the banner below to get yours. 
 
-<p align="center">
-| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley2/BH_KOV_Bisect.png" alt="Get your server today!"  width="1920" height="200"></a>|
-</p>
-
-</p>
+[![](https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley2/BH_KOV_Bisect.png)](https://bisecthosting.com/AMPZ)

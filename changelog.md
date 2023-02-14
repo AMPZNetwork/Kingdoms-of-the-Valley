@@ -7,6 +7,7 @@
 <h1>V1.9</h1>
 
 <h4>We highly recommend you backup your worlds before updating this version as it's likely going to break some stuff.</h4> 
+<h5>This is the last major update until V2.0 - 1.18.2 is release, however if there are any  issues before hand we will release a patch to address them.</h5>
 
 **Updated:**
 + Bookshelf (10.4.32 → 10.4.33)

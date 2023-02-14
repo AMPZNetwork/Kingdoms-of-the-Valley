@@ -25,7 +25,7 @@
 + Fixed server files crashing on Linux.
 + Fixed rope knot block not rotating properly.
 + Fixed inventory being lost instead of kept when used with certain mods in this modpack.
-+ Fixed modpack not closing probely for users on Technic Launcher.
++ Fixed modpack not closing probably for users on Technic Launcher.
 + Disabled collective download warning message.
 + Disabled bombs from supplementaries.
 + Changed JEI MaxColumns from 9 to 20.

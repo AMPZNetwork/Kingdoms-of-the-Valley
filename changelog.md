@@ -4,6 +4,50 @@
 # Kingdoms of the Valley | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V1.9</h1>
+
+<h4>We highly recommend you backup your worlds before updating this version as it's likely going to break some stuff.</h4> 
+
+**Updated:**
++ Bookshelf (10.4.32 → 10.4.33)
++ Collective (5.25 → 2.49)
++ Corpse Complex (4.0.2.7 → 4.0.2.8)
++ Drippy Loading Screen (1.6.6 → 2.1.1)
++ FancyMenu (2.13.0 → 2.13.3)
++ Macaw's Fences and Walls (1.0.6 → 1.0.7)
++ Macaw's Lights and Lamps (1.0.4 → 1.0.5)
++ Macaw's Roofs (2.2.1 → 2.2.2)
++ Macaw's Windows (2.1.0 → 2.1.1)
++ Supplementaries (0.18.4b → 0.18.5)
++ TerraForged (0.2.16-BETA-2 → 0.2.16)
+
+**Changed/Fixed:**
++ Fixed server files crashing on Linux.
++ Fixed rope knot block not rotating properly.
++ Fixed inventory being lost instead of kept when used with certain mods in this modpack.
++ Fixed modpack not closing probely for users on Technic Launcher.
++ Disabled collective download warning message.
++ Disabled bombs from supplementaries.
++ Changed JEI MaxColumns from 9 to 20.
++ Updated the Preview the next major update button url.
++ Small UI tweaks.
++ General performance improvements.
+
+**Added:**
++ Modern World Creation
++ Smooth Boot
+
+**Removed:**
++ Cultural Delights
++ YUNG's Better Mineshafts
++ YUNG's Better Caves
++ OuterEnd
++ Apotheosis
++ RoadRunner
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---------------------------------------------------------------------------------------------
 <h1>V1.8 - Out of BETA Release</h1>
 
 **Updated:**

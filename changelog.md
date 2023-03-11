@@ -4,6 +4,54 @@
 # Kingdoms of the Valley | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V2.0 - 1.18.2 UPDATE!</h1>
+
+<h4>We believe that old worlds should be compatible with this version of Kingdoms of the Valley,<br>but we have not tested this ourselves.<br>If you encounter any issues with your old worlds then we recommend you make a new one for this version.</h4>
+
+
+**Updated:**
++ Minecraft (1.16.5 → 1.18.2)
++ Minecraft Forge (36.2.39 → 40.2.1)
++ Bunch of mods.
+
+Changed/Fixed:
++ Initial 1.18.2 Release
++ Fixed issue where sophisticated backpacks upgrade tabs would sometimes close without any player interaction with actual upgrade items.
++ Fixed a strange crash regarding the final castle in the twilight forest.
++ Fixed a crash that occur for some users with AMD GPUs during world loading.
++ Fixed custom music not always playing either in-game or the titlescreen.
++ Updated CurseForge icon to their new rebranded one.
++ Minor changes to the splash screen.
+
+**Added:**
++ Blood Magic
++ Diagonal Fences
++ Modern World Creation
++ Merchant Markers
++ YUNG's Better Nether Fortresses
++ Multi-Piston
+
+**Removed:**
++ Sign Posts
++ Nether's Delight
++ Tree Harvester
++ Collective
++ Buzzier Bees
++ Caves and Cliffs Backport
++ Caves & Cliffs Backport (Additions)
++ Environmental 
++ Buzzier Bees
++ Savage & Ravage
++ Krypton Reforged
++ Scalable Cat's
++ Corpse Complex
++ Supplementaries
++ ReBlured
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---------------------------------------------------------------------------------------------
 <h1>V1.9</h1>
 
 <h4>We highly recommend you backup your worlds before updating this version as it's likely going to break some stuff.</h4> 

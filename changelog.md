@@ -22,7 +22,7 @@
 + Farmer's Delight (1.2.0 → 1.2.1)
 + JourneyMap (5.9.3 → 5.9.7)
 + Just Enough Items (10.2.1.1002 → 10.2.1.1004)
-+ Konkrete (1.6.0 → 1.6.1) **UPLOAD To Technic*
++ Konkrete (1.6.0 → 1.6.1)
 + Macaw's Bridges (2.0.6 → 2.0.7)
 + Macaw's Doors (1.0.8 → 1.0.9)
 + MineColonies (1.0.1272-ALPHA  → 1.0.1428-BETA)

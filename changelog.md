@@ -1,9 +1,78 @@
 [![](https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley2/BH_KOV_Bisect.png)](https://bisecthosting.com/AMPZ)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------------------------
 # Kingdoms of the Valley | Patch Notes
 ## Be sure to always backup your world(s) before updating!
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+<h1>V2.0.1</h1>
+
+**Updated:**
++ Almost Unified (0.3.6 → 0.3.10)
++ Architectury API (4.11.89 → 4.11.93)
++ Balm (3.2.5 → 3.2.6)
++ BisectHosting Server Integration Menu (v1.3 → v2.3.1)
++ Bookshelf (13.2.52 → 13.3.56)
++ Blood Magic (3.2.5-40 → 3.2.6-41)
++ Configured (2.0.0 → 2.0.1)
++ Create (0.5.0 → 0.5.1b)
++ Controlling (9.0+22 → 9.0+23)
++ Drippy Loading Screen (2.1.1 → 2.2.1)
++ Diagonal Fences (v3.1.0 → v3.1.1) 
++ FancyMenu (2.13.3-2 → 2.14.7)
++ Farmer's Delight (1.2.0 → 1.2.1)
++ JourneyMap (5.9.3 → 5.9.7)
++ Just Enough Items (10.2.1.1002 → 10.2.1.1004)
++ Konkrete (1.6.0 → 1.6.1) **UPLOAD To Technic*
++ Macaw's Bridges (2.0.6 → 2.0.7)
++ Macaw's Doors (1.0.8 → 1.0.9)
++ MineColonies (1.0.1272-ALPHA  → 1.0.1428-BETA)
++ Minecraft Forge (40.2.1 → 40.2.8)
++ Mantle (1.9.43 → 1.9.45)
++ Merchant Markers (1.3.0 → 1.3.1)
++ Simple Discord RPC (3.2.0 → 3.2.1)
++ Snow! Real Magic! (4.2.3 → 4.2.4)
++ Sophisticated Backpacks (3.18.40.777 → 3.18.48.835)
++ Sophisticated Core (0.5.37.202 → 0.5.56.273)
++ OAuth (1.1.14 → 1.1.15)
++ Pehkui (3.7.2 → 3.7.5)
++ Placebo (6.6.6 → 6.6.7)
++ Tinkers Construct (3.6.3.111 → 3.6.4.113)
++ Upgraded Netherite (4.3.0.0 → 4.3.0.1)
++ Waystones (10.2.0 → 10.2.1)
+
+**Changed/Fixed:**
++ Fixed "Bad Access To Protected Data" bug/crash.
++ Fixed a crash with wooden portcullis with other mods, because of the tag wooden_doors.
++ Fixed a crash when cycling bogey types on a server.
++ Fixed netherite diving suit not protecting from fire damage when Quark is installed.
++ Fixed small animals (such as chicken and rabbits) trying to path-find through diagonal fence connections.
++ Fixed wrong criterion on recipes for smelting Golden Knives.
++ Fixed potential crash with reflecting and piercing arrows.
++ Fixed possible duplication bug in the tool inventory container.
++ Fixed a couple of dupe bugs related to stacked daggers.
++ Fixed sweeping edge at max level doing 1 more damage to edge targets than it should.
++ Fixed soup melting having too high melting time.
++ Fixed leashed entities no longer being teleported with the player.
++ Fixed a server-side crash with Mark of the Falling Tower.
++ Added the ability to view other public servers that use this pack and are hosted on BisectHosting.
+
+**Added:**
++ Rubidium
++ Magnesium/Rubidium Extras
++ Oculus
++ Droplight
++ Connectible Chains
++ Entity Culling Fabric/Forge
+
+**Removed:**
++ Not Enough Crashes
++ Torch Slabs Mod 
++ Harvest with ease
++ Lazy DataFixerUpper
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---------------------------------------------------------------------------------------------
 <h1>V2.0 - 1.18.2 UPDATE!</h1>
 
 <h4>We believe that old worlds should be compatible with this version of Kingdoms of the Valley,<br>but we have not tested this ourselves.<br>If you encounter any issues with your old worlds then we recommend you make a new one for this version.</h4>

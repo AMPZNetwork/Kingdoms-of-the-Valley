@@ -5,6 +5,45 @@
 
 ---
 
+## Version: 2.0.3
+
+### Updated:
+- AppleSkin (2.4.1 → 2.5.1)
+- BisectHosting Server Integration Mod (2.4.0 → 2.4.1)
+- Jade (5.3.0 → 5.3.1)
+- MineColonies (1.1.29-BETA → 1.1.148-BETA)
+- Minecraft Forge (40.2.10 → 40.2.13)
+- Pehkui (3.7.8 → 3.7.11)
+- Puzzles Lib (3.5.7 → 3.5.8)
+- Simple Discord RPC (3.2.3 → 3.2.4)
+- Sophisticated backpacks (3.18.57.8883 → 3.18.65.933)
+- Sophisticated Core (0.5.82.393 → 0.5.98.458)
+- Structurize (0.5.82.393 → 1.0.424-ALPHA)
+  
+### Changed/Fixed:
+- Fixed large hunger/saturation text being drawn on top of the icon in tooltips.
+- Fixed potential crash from unexpectedly large health/absorption values.
+- Fixed a compatiblity with Essential mod.
+- Fixed Analog Levers not rendering their redstone indicator.
+- Fixed a dupelication bug.
+- Added the ability to craft iron, leather, gold and diamond horse armor. refer to this [image](https://i.imgur.com/NoZsFzi.png) for the recipe.
+- Added a the abiliy to craft chainmail armour (craft this the same way as you do the other armor but with chain).
+
+### Added:
+- Embeddium
+- Embeddium++
+- ObsidianUI
+- RyoamicLights
+
+### Removed:
+- Rubidium
+- Magnesium Extras
+- Not Enough Recipe Book
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---
+
 ## Version: 2.0.2
 
 ### Updated:

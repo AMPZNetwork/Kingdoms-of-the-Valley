@@ -5,6 +5,31 @@
 
 ---
 
+## Version: 2.0.4
+
+#### Final Update for This Pack Until 2024, Unless a major issue arises.
+
+### Updated:
+- Embeddium (0.2.7 → 0.2.11)
+- Minecraft Forge (40.2.13 → 40.2.14)
+- Sophisticated backpacks (3.18.65.933 → 3.19.1.959)
+- Sophisticated Core (0.5.98.458 → 0.5.106.502)
+
+### Changed/Fixed:
+- Added a few bits for support of Anvil upgrade.
+- Fixed blocks that are marked as air but also have a block entity renderer being invisible.
+- Fixed block entities disappearing briefly when being deleted & recreated.
+
+### Added:
+- Lootr
+- Connectedness
+- FramedBlocks
+- FerriteCore
+- Jade Addons
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---
 ## Version: 2.0.3
 
 ### Updated:

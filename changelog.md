@@ -5,6 +5,46 @@
 
 ---
 
+## Version: 2.0.5
+
+### Updated:
+- Cloth Config API (6.5.102 → 6.5.116)
+- Embeddium (0.2.11 → 0.2.18)
+- Embeddium++ (v1.0.0 → 1.2.2)
+- FancyMenu (2.14.9 → 2.14.13)
+- Konkrete (1.6.1 → 1.8.0)
+- Minecraft Forge (40.2.14 → 40.2.17)
+- Smooth Boot (0.0.2 → 0.0.4)
+- Sophisticated Backpacks (3.19.1.959 → 3.19.5.990)
+- Sophisticated Core (0.5.106.502 → 05.111.526)
+- Waystones (10.2.1 → 10.2.2)
+
+### Changed/Fixed:
+- Addressed a Sodium bug that was causing issues with interpolated textures.
+- Resolved several identified memory leaks.
+- Fixed the issue preventing players from joining multiplayer servers.
+- Updated the `splash.txt` file to eliminate references to Technic.
+- Enabled the destruction and potential griefing of colonies under specific conditions by default.
+- Colonie workers will now continue working during rain/thunder.
+- Modified the maximum number of citizens one colony can have from 500 to 350.
+- Added support for handheld devices such as the Steam Deck; note that some GUIs may not function as expected with a controller.
+
+### Added:
+- Macaw's Bridges - Biomes O' Plenty
+- Macaw's Fences - Biomes O' Plenty
+- Controllable
+- Yeetus Experimentus!
+- Emojiful
+
+### Removed:
+- RyoamicLights
+- ObsidianUI
+- Shutup Experimental Settings!
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---
+
 ## Version: 2.0.4
 
 #### Final Update for This Pack Until 2024, Unless a major issue arises.

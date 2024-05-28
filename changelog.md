@@ -5,6 +5,43 @@
 
 ---
 
+## Version: 2.0.6
+
+#### Development of Version 3.0 has begun.
+
+### Updated:
+- Architectury API (4.11.93 → 4.12.94)
+- Drippy Loading Screen (2.2.2 → 3.0.1)
+- Embeddium (0.2.18 → 0.3.18)
+- Embeddium++ (1.2.2 → 1.2.13)
+- FancyMenu (2.14.13 → 3.2.3)
+- Jade (5.3.1 → 5.3.2)
+- JourneyMap (5.9.7 → 5.9.8)
+- Lootr (0.3.25.64 → 0.3.28.70)
+- Macaw's Bridges (2.1.0 → 3.0.0)
+- Macaw's Bridges - Biomes O' Plenty (1.4 → 1.5)
+- Macaw's Fences and Walls (1.0.7 → 1.1.1)
+- Minecraft Forge (40.2.17 → 40.2.21)
+- Mantle (1.9.45 → 1.9.50)
+- Pehkui (3.7.11 → 3.8.0)
+- Polymorph (0.49 → 0.50)
+- Puzzles Lib (3.5.8 → 3.5.9) 
+
+### Changed/Fixed:
+- Macaw's Bridges v3.0.0 has introduced some distortions in bridge appearances. To rectify this, simply place a block above or adjacent to the affected bridge or stairs. Alternatively, breaking and replacing them will trigger an update for neighboring bridges.
+- New bridge types have been incorporated:
+  - Bridge Torch & Lantern
+  - Bridge Piers
+  - Red Asian Bridge + Stairs
+  - Glass Bridge + Stairs
+- Added a "Reconnect" button to the disconnect screen for convenience.
+- Fixed discord invite link.
+- Made the title screen splash.txt behave like it does for vanilla Minecraft.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues)
+
+---
+
 ## Version: 2.0.5
 
 ### Updated:

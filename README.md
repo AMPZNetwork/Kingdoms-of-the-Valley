@@ -4,7 +4,7 @@
 
 ## Welcome to Kingdoms of the Valley
 
-This is the official repository for Kingdoms of the Valley 1.18.2. If you encounter any bugs or issues with the modpack, please report them [here](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues/new?assignees=LabsZero&labels=Bug&projects=&template=bug_report.md&title=%5BBUG%5D). We are dedicated to providing the best experience for our users, and your feedback helps us achieve that goal. Thank you for choosing Kingdoms of the Valley.
+This is the official repository for Kingdoms of the Valley 1.19.2. If you encounter any bugs or issues with the modpack, please report them [here](https://github.com/AMPZNetwork/Kingdoms-of-the-Valley/issues/new?assignees=LabsZero&labels=Bug&projects=&template=bug_report.md&title=%5BBUG%5D). We are dedicated to providing the best experience for our users, and your feedback helps us achieve that goal. Thank you for choosing Kingdoms of the Valley.
     
 #### Modpack Links: 
 + [CurseForge](https://www.curseforge.com/minecraft/modpacks/kingdoms-of-the-valley)

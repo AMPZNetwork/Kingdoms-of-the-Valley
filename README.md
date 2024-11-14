@@ -1,4 +1,4 @@
-![](https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley2/BH_KOV_Title.png)
+![](https://www.bisecthosting.com/images/CF/Kingdoms_of_the_Valley/MP_KingdomsOfTheValley_header.webp)
 
 ------
 
@@ -25,4 +25,4 @@ To ensure efficient tracking and resolution of issues, please follow this format
 ## Looking for a Reliable Server Host?
 As part of our commitment to providing the best gaming experience for our community, AMPZ Network has partnered with BisectHosting to offer an exclusive discount. Use promo code **"AMPZ"** to receive a 25% discount on your first order of any gaming services. Click the banner below to claim your discount and start playing today!
 
-[![](https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley2/BH_KOV_Bisect.png)](https://bisecthosting.com/AMPZ?r=githubkotv)
+[![](https://www.bisecthosting.com/images/CF/Kingdoms_of_the_Valley/MP_KingdomsOfTheValley_affiliate.webp)](https://bisecthosting.com/AMPZ?r=githubkotv)

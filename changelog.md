@@ -1,4 +1,4 @@
-[![](https://www.bisecthosting.com/images/CF/Kingdoms_Of_The_Valley2/BH_KOV_Bisect.png)](https://bisecthosting.com/AMPZ?r=githubkotv)
+[![](https://www.bisecthosting.com/images/CF/Kingdoms_of_the_Valley/MP_KingdomsOfTheValley_promo.webp)](https://bisecthosting.com/AMPZ?r=githubkotv)
 
 # Kingdoms of the Valley | Patch Notes
 ### Be sure to review these changes carefully before updating your world(s).
